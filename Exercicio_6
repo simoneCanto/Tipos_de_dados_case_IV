@@ -1,0 +1,7 @@
+# Exercicio 2 Parte 3
+produto_valor = 25.3
+cliente_Premium = True
+print('O valor do produto é:', produto_valor)
+print('O tipo da variável produto_valor é:', type(produto_valor))
+print('O cliente é premium? ',cliente_Premium)
+print('O tipo da variávels cliente_premium é: ', type(cliente_Premium))
