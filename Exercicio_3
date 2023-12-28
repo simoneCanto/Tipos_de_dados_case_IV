@@ -1,0 +1,5 @@
+# Exercicio 1 Parte 2
+print('Qual o seu primeiro nome? ', nomePrimeiro)
+print('Qual o seu nome do meio? ', nomeMeio)
+print('Qual o seu último nome? ', nomeUltimo)
+print(nomePrimeiro, nomeMeio, nomeUltimo, 'seja muito bem vinda a DNC')
