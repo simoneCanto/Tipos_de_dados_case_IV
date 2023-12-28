@@ -1,0 +1,5 @@
+# Exercicio 2 Parte 1
+cliente_nome = 'Euclides'
+cliente_idade = '2 anos'
+print('O nome do cliente é:', cliente_nome)
+print('A idade do cliente é:', cliente_idade)
