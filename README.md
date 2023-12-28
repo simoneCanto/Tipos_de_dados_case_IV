@@ -1,4 +1,4 @@
-# Tipos-de-dados
+# Strings
 Trabalhando com Textos em Python
 
 Strings e print( )
