@@ -1,0 +1,5 @@
+# Exercicio 2 Parte 2
+cliente_nome = input('Qual seu nome? ')
+cliente_idade = input('Qual sua idade? ')
+print('O nome do cliente é:', cliente_nome)
+print('A idade do cliente é:', cliente_idade, 'anos.')
