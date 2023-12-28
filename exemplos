@@ -1,0 +1,11 @@
+# função imprimir
+
+print('Olá, Mundo!!!')
+
+# outros exemplos
+print('Olá mundo')  # Sem colocar a vírgula irá imprimir: Olá mundo
+
+print("Olá mundo com aspas duplas") # A função print pode ser usada com aspas simples ou duplas
+                                    # Nesse caso irá imprimir: Olá mundo com aspas duplas
+
+print('!@$#')   # Irá imprimir: !@$#
